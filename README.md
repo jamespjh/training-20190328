@@ -1,10 +1,7 @@
-# training-20190328
+# Some notes about mountains
 
-Some content by James 
-Some more content by James
+Some hills in Cumbria:
 
-Yet more content
-
-Tim's changes
-
-Oh look I typed something
+* Scafell Pike
+* Helvellyn
+* Coniston Old Man
